@@ -2,7 +2,9 @@
 You take a loan from a friend and need to calculate how much you will owe him after 3 months.
 You are going to pay him back 10% of the remaining loan ammount each month.
 Create a program that takes the loan amount as input, calculates and outputs the remaining amount
-after 3 months.*/
+after 3 months.
+Author: Anna Swiatkowska-Duncan 24/03/22*/
+
 
 import java.util.Scanner; 
 
